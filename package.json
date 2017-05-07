@@ -1,0 +1,25 @@
+{
+  "name": "electron-tabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dragula": "^3.7.2",
+    "electron": "^1.6.6",
+    "electron-tabs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vj3k0/electron-tabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vj3k0/electron-tabs/issues"
+  },
+  "homepage": "https://github.com/Vj3k0/electron-tabs#readme"
+}
